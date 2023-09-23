@@ -4,7 +4,7 @@
 
 This repository contains the code and documentation for an IoT-based fire-fighting robot with an email notification system. The project aims to autonomously detect and respond to fire and gas incidents, providing real-time email notifications to users.
 
-![Project](https://github.com/Sazidul0/IOT-Based-Fire-Fighter-Car-with-Email-System/Pictures/Car.jpeg)
+![Project](https://github.com/Sazidul0/IOT-Based-Fire-Fighter-Car-with-Email-System/Car.jpeg)
 
 ## Features
 
@@ -28,7 +28,7 @@ This repository contains the code and documentation for an IoT-based fire-fighti
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://github.com/Sazidul0/IOT-Based-Fire-Fighter-Car-with-Email-System/Pictures/Fire Fighting Bot Connection.png)
+![Circuit Diagram](https://github.com/Sazidul0/IOT-Based-Fire-Fighter-Car-with-Email-System/circuit.png)
 
 ## Usage
 
